@@ -1,7 +1,6 @@
 `default_nettype none
 `timescale 1ns / 1ps
 
-
 module tb_clkgen(
 	 wb_clk_o,
 	 wb_rst_o,
